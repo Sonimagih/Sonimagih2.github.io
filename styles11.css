@@ -1,0 +1,244 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: sans-serif;
+}
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    font-weight: 800;
+    font-size: 20px;
+}
+.navbar 
+{
+    background-image: linear-gradient(to left, #a517ba,#5f1782);
+    padding: 0 !important;
+}
+.navbar-brand
+{
+    font-weight: 900;
+    font-size: 50px;
+}
+.navbar-nav li
+{
+padding: 0 10px;
+}
+.fa-bars
+{
+  color: #fff;
+  font-size: 30px !important;
+}
+#banner
+{
+    background-image: linear-gradient(to left, #a517ba,#5f1782); 
+    color: white;
+    padding-top: 2%;
+    
+}
+.title
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+.para
+{
+    font-weight: 300;
+    font-size: 25px;
+}
+.img
+{
+    width: 280px;
+    margin: 20px;
+    margin-left: 20cm;
+    margin: 40px;
+    
+    
+}
+#about
+{
+    background: #f8f9fa;
+    padding-bottom: 50px;
+    padding-top: 40px;
+}
+.aboutp
+{
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 8px;
+    margin-left: 20px;
+    font-style: italic;
+}
+.title1
+{
+    color: #5f1782;
+    font-weight: 600;
+}
+.title2
+{
+    color: #5f1782;
+    font-weight: 600;
+}
+.bk
+{
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 8px;
+    margin-left: 20px;
+    font-style: italic;  
+}
+#social
+{
+    background: #f8f9fa;
+    padding: 100px 0;
+}
+#social p
+{
+    font-size: 36px;
+    color: #5f1782;
+    font-weight: 600;
+}
+.social-icon img
+{
+  width: 60px;
+  transition: 0.5s;
+}
+.social-icon a:hover img
+{
+  transform: translateY(-10px);
+}
+#footer
+{
+    background-color:#5f1782;
+    color: white;
+    height: 7cm;
+    margin-top: 1%;
+    text-align: center;
+    
+}
+.copy
+{
+    font-weight: 900;
+    font-size: 20px;
+}
+.footerbox
+{
+    font-size: 20px;
+}
+.list-group-item{
+    font-weight: 100px;
+    font-size: 20px;
+}
+.login
+{
+    
+    font-size: 40px;
+    background-color:#cda0e4;
+    
+  
+}
+.login h2
+{
+    font-size: 70px;
+}
+.login :placeholder-shown
+{
+   width: 10cm;
+   height: 1cm;
+}
+#logg
+{
+    height: 1cm; 
+    width: 4cm;
+}
+.back
+{
+    color: blue;
+    font-size: 20px;
+}
+.login
+{
+    
+    font-size: 40px;
+    background-color:#cda0e4;
+    
+  
+}
+.sign h2
+{
+    font-size: 70px;
+}
+.sign :placeholder-shown
+{
+   width: 10cm;
+   height: 1cm;
+   margin-left: 20px;
+}
+#signn
+{
+    height: 1cm; 
+    width: 4cm;
+    margin-left: 50px;
+}
+
+.back
+{
+    color: blue;
+    font-size: 20px;
+}
+.sign
+{
+    
+    font-size: 20px;
+    background-color:#cda0e4;
+    
+  
+}
+.ebook img
+{
+  width: 70px;
+
+  
+}
+.blist
+{
+    margin-left: 2cm;
+
+}
+.modal-body
+{
+    font-size: 20px;
+}
+#message{
+    position: absolute;
+    display: none;
+    color: black;
+    font-size: 15px;
+}
+.sign span{
+    
+    position: absolute;
+    color: red;
+    
+}
+.strong {
+    color: green;
+  }
+  .medium {
+    color: orange;
+  }
+  .poor {
+    color: red;
+  }
+  .login span{
+    
+    position: absolute;
+    color: red;
+    
+}
